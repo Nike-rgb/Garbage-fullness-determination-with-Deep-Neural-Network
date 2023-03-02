@@ -1,4 +1,3 @@
-# Smart-Garbage-Monitoring-with-CNN-and-Gas-sensor
 
 ## Introduction
 
