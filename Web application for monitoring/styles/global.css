@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "handwriting"; /* specify the font family name */
+  font-style: normal;
+  font-weight: 400;
+  src: url("../public/BrittanySignature.ttf"); /* specify the path to the font file */
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.leaflet-container {
+  position: relative;
+  height: 500px;
+  width: 70%;
+  min-width: 400px;
+  margin: 40px auto;
+}
+
+.heading {
+  padding: 10px 30px;
+  font-family: "handwriting", sans-serif;
+  font-size: 28px;
+  color: purple;
+}
+
+@media screen and (max-width: 400px) {
+  .MuiPaper-root {
+    height: 100vh;
+    width: 100vw;
+  }
+}
