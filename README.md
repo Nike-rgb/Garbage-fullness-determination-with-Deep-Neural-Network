@@ -13,7 +13,7 @@ The system's hardware consists of the following components:
 
 ## CNN model
 
-The Jupyter notebook with detailed description for training the model is included under filename **_Garbage Monitoring Notebook_** or [Click here](Garbage%20Monitoring%20Notebook.ipynb)
+The Jupyter notebook with detailed description for training the model is included under filename **_Fullness determination with CNN.ipynb_** or [Click here](Fullness%20determination%20with%20CNN.ipynb)
 
 ## Data Collection and Model Improvement
 
